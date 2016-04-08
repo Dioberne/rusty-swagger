@@ -1,0 +1,8 @@
+[package]
+name = "rusty-swagger"
+version = "0.1.0"
+authors = ["dioberne"]
+[dependencies]
+num="*"
+rand="*"
+time = "*"
